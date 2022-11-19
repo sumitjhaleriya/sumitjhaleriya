@@ -1,6 +1,6 @@
 - 👀 Hi, I’m @sumitjhaleriya
 - 👀 I’m interested in projects
-- 🌱 I’m currently learning machine learning , data science and cybersecurity
+- 🌱 I’m currently learning machine learning and data science 
 - 💞️ I’m looking to collaborate on projects 
 - 📫 You can reach me via linkedin 
 
