@@ -1,15 +1,17 @@
+[![MasterHead](lambdatest.com/resources/images/news24.gif)](https://sumitj99.study)
+
 <h1 align="center">Hi 👋, I'm Sumit Jhaleriya</h1>
 <h3 align="center">A Python/C++ developer and cybersecurity enthusiast from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie/programming-code-3917208">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitjhaleriya&label=Profile%20views&color=0e75b6&style=flat" alt="sumitjhaleriya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitjhaleriya" alt="sumitjhaleriya" /></a> </p>
+- 🔭 I’m currently working on **Portfolio and projects**
 
 - 🌱 I’m currently learning **data structures and algorithms**
 
 - 👯 I’m looking to collaborate on **software development projects and opencv projects**
 
-- 💬 Ask me about **c++ python javascript reactjs**
+- 💬 Ask me about **c++ python**
 
 - 📫 How to reach me **jhaleriyasumit@gmail.com**
 
@@ -28,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitjhaleriya&show_icons=true&locale=en&layout=compact" alt="sumitjhaleriya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitjhaleriya&show_icons=true&locale=en" alt="sumitjhaleriya" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitjhaleriya&" alt="sumitjhaleriya" /></p>
