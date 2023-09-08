@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **software development projects and opencv projects**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **c++ python javascript reactjs**
 
 - 📫 How to reach me **jhaleriyasumit@gmail.com**
 
