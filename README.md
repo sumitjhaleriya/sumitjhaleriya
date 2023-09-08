@@ -1,8 +1,10 @@
 [![MasterHead](https://github.com/sumitjhaleriya/sumitjhaleriya/blob/main/Data%20Analytics.gif)]()
 <h1 align="center">Hi 👋, I'm Sumit Jhaleriya</h1>
 <h3 align="center">A Python/C++ developer and cybersecurity enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitjhaleriya&label=Profile%20views&color=0e75b6&style=flat" alt="sumitjhaleriya" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitjhaleriya" alt="sumitjhaleriya" /></a> </p>
 
 - 🔭 I’m currently working on **Portfolio and projects**
 
@@ -29,3 +31,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitjhaleriya&show_icons=true&locale=en&layout=compact" alt="sumitjhaleriya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitjhaleriya&" alt="sumitjhaleriya" /></p>
+
