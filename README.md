@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently preparing for  **College Placements**
 
-- 👯 I’m **Open to Work** and **Looking** to collaborate on **software development projects and opencv projects**
+- 👯 I’m **Open to Work** and **Looking** to collaborate on **software development projects**
 
-- 💬 Ask me about **C++ Python**
+- 💬 Ask me about **C++ **
 
 - 📫 How to reach me ->**jhaleriyasumit@gmail.com**
 
